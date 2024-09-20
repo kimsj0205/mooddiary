@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mooddiary/static/css/main.49894398.css",
+    "main.js": "/mooddiary/static/js/main.775865dc.js",
+    "index.html": "/mooddiary/index.html",
+    "main.49894398.css.map": "/mooddiary/static/css/main.49894398.css.map",
+    "main.775865dc.js.map": "/mooddiary/static/js/main.775865dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49894398.css",
+    "static/js/main.775865dc.js"
+  ]
+}
